@@ -5,3 +5,6 @@ A backend microservice application which allows users to create, edit, delete no
 ## Technologies used
 
 Spring Boot 2, H2 Database, AWS S3, AWS EC2
+
+#### Note
+Use the port: 5000 to access the microservice.
