@@ -1,0 +1,3 @@
+ ssh -i "easy-notes-ec2.pem" ubuntu@ec2-34-220-217-75.us-west-2.compute.amazonaws.com
+
+	java -jar easy-notes-0.0.1-SNAPSHOT.jar.1
