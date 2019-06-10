@@ -7,6 +7,6 @@ It is deployed to AWS Elastic Beanstalk.
 Spring Boot 2, MySQL Database, AWS S3, AWS EBS, AWS RDS
 
 #### Note
-Use the port: 5000 to access the microservice.
+Use the port: 5000
 
 
