@@ -6,9 +6,10 @@ It is deployed to AWS Elastic Beanstalk.
 
 Spring Boot 2, MySQL Database, AWS S3, AWS EBS, AWS RDS
 
-#### Note
-1: Use the port: 5000
-2: To view the final outcome of the app view the pictures in 'screenshots' folder.
+### Output
+To view the final outcome of the app view the pictures in 'screenshots' folder.
 
+#### Note
+Use the port: 5000
 
 
